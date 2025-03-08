@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Duolingo Auto Continue",
+  "version": "1.0",
+  "description": "Automatically clicks 'Continue' in Duolingo when the answer is correct.",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["*://*.duolingo.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
+
