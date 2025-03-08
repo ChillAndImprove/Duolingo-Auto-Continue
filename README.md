@@ -18,3 +18,7 @@ Once installed, the extension will automatically detect the green confirmation e
 ## ⚠️ Disclaimer
 
 This project is not affiliated with or endorsed by Duolingo. Use at your own risk.
+
+
+
+This README was writteb by GPT, I'm lazy ;)
